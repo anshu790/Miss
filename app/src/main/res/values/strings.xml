@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profile UI</string>
+    <string-array name="states">
+        <item>Delhi</item>
+        <item>West Bengal</item>
+        <item>Tamil Naidu</item>
+        <item>Maharstra</item>
+        <item>Bihar</item>
+        <item>Goa</item>
+        <item>uttar Pradesh</item>
+        <item>Kerala</item>
+        <item>Jharkhand</item>
+        <item>Punjab</item>
+        <item>Odisha</item>
+    </string-array>
+</resources>
